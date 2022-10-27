@@ -1,7 +1,6 @@
 ############################################################################################
 #Könyvtárak telepítése, illetve importálása
 import pip
-pip.main(['install', 'osm2geojson'])
 pip.main(['install', 'netCDF4'])
 pip.main(['install', 'matplotlib'])
 
