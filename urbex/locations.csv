@@ -1,0 +1,51 @@
+﻿Név;Település;Szélesség;Hosszúság;Jelleg;Látogathatóság;Mappa
+Szily-kastély;Gödre;46.271196841443725;17.987791968160227;kastély;szabadon látogatható;szily_kastely
+Fekete-kastély;Balatonederics;46.78872406013771;17.377477709264532;kastély;szabadon látogatható;fekete_kastely
+Zichy-kastély;Kishárságy;46.186883011088405;17.77794226768576;kastély;szabadon látogatható;zichy_kastely
+Kremsier-kastély;Barcs;45.95714280469946;17.486915254838582;kastély;szabadon látogatható;kremsier_kastely
+Knefély-kastély;Tolna;46.4143026521949;18.802802193551155;kastély;elkerített;knefely_kastely
+Széchenyi-Wenckheim kastély;Póstelek;46.687918514570704;21.196666295490367;kastély;elkerített;szechenyi_wenckheim_kastely
+Széchenyi-kastély;Somogytarnóca;46.00868618478227;17.456333786348313;kastély;elkerített;szechenyi_kastely
+Szentkirályszabadjai szellemváros;Szentkirályszabadja;47.08251263787258;17.978404034517006;laktanya;szabadon látogatható;szentkiralyszabadja
+Hajmáskéri tüzérlaktanya;Hajmáskér;47.14862197208126;18.025934933289342;laktanya;szabadon látogatható;hajmasker
+Kis-Moszkva;Nagyvázsony;47.044719800758465;17.72165806552851;laktanya;őrzött;kis_moszkva
+Nádasdy-kastély;Sorkifalud;47.12686718147644;16.717077346939234;kastély;szabadon látogatható;nadasdy_kastely
+Ózdi Kohászati Üzemek;Ózd;48.22057409340452;20.294449998670025;ipari egység;elkerített;ozdi_kohaszat
+Romkápolna;Uzdpuszta;46.46476371576993;18.00856184458584;vallási építmény;szabadon látogatható;uzdpuszta_romkapolna
+BARS 501;Kálló;47.73536120877328;19.435999925832864;katonai objektum;szabadon látogatható;bars501
+BARS 502;Tedej;47.91959204860682;21.403457307997893;katonai objektum;elkerített;bars502
+BARS 503;Szentes;46.63896431539123;20.432240871040197;katonai objektum;elkerített;bars503
+BARS 504;Hárskút;47.188140425111044;17.74025297286036;katonai objektum;szabadon látogatható;bars504
+Üdülő;Zamárdi;46.883463058492495;17.941200333882954;szálló;elkerített;zamardi_udulo
+Romtemplom;Zsámbék;47.54933585249266;18.714853453818144;vallási építmény;szabadon látogatható;zsambek_romtemplom
+MN6546 légvédelmi rakétaosztály;Kerepes;47.58116528822087;19.30072097721639;katonai objektum;nincs információ;kerepes_raketaosztaly
+Laktanya;Kiskunlacháza;47.176536727737435;19.05390377642819;laktanya;őrzött;kiskunlachaza_laktanya
+Strand Hotel;Salgótarján;48.13386898573693;19.81926398867584;szálló;szabadon látogatható;salgotarjan_hotel
+Laktanya;Verpelét;47.84903543681181;20.206077593076053;laktanya;elkerített;verpelet_laktanya
+Laktanya;Kunmadaras;47.40898320669957;20.793477980673465;laktanya;őrzött;kunmadaras_laktanya
+Hotel Nimród;Pilisszentkereszt;47.71942019672551;18.900630070636637;szálló;szabadon látogatható;hotel_nimrod
+Kelenföldi erőmű régi csarnok;Budapest;47.46191740731875;19.057139461056025;ipari egység;őrzött;kelenfold_eromu
+Istvántelki főműhely elhagyatott csarnoka;Budapest;47.549032348029705;19.10440827425845;ipari egység;őrzött;istvantelki_fomuhely
+Hotel Korona;Sopron;47.67596365438368;16.559431476658876;szálló;szabadon látogatható;hotel_korona
+Timföldgyár;Almásfüzitő;47.72965817297154;18.252050495367772;ipari egység;őrzött;timfoldgyar_almasfuzito
+Goldberger gyár;Budapest;47.53566483913022;19.04259639491475;ipari egység;elkerített;goldberger_gyar
+Zsörk;Pápateszér;47.36505170708896;17.67447934818221;szellemfalu;szabadon látogatható;zsork
+Nagyecsér;Mezőnagymihály;47.768498739760574;20.787081994784735;szellemfalu;szabadon látogatható;nagyecser
+Nagyvásártelep;Budapest;47.462229945405234;19.07744867416003;ipari egység;szabadon látogatható;nagyvasartelep
+Esze Tamás laktanya;Vác;47.79871949427202;19.123138239299724;laktanya;őrzött;laktanya_vac
+Gyermekotthon;Csobánka;47.65386206515521;18.974400801563764;egyéb infrastruktúra;elkerített;gyermekotthon_csobanka
+Pálffy-kastély;Visegrád;47.79453498852239;18.975805844563695;kastély;elkerített;palffy_kastely
+Ifjúsági tábor;Velence;47.22870414398221;18.662320819349354;szálló;elkerített;velence_tabor
+Sajnovics-kastély;Tordas;47.34190570038289;18.75205824215595;kastély;elkerített;sajnovics_kastely
+Zichy-Hadik kastély;Seregélyes;47.118279851913364;18.576434663832494;kastély;szabadon látogatható;zichy_hadik_kastely
+Laktanya;Börgönd;47.13805381500564;18.494393062069367;laktanya;szabadon látogatható;borgond_laktanya
+Ihász Dániel Közlekedésgépészeti Szakközépiskola;Budapest;47.46507312353433;19.10310891312585;egyéb infrastruktúra;őrzött;szakkozepiskola_bp
+Rácz-fürdő;Budapest;47.4907100433844;19.043307233412445;egyéb infrastruktúra;őrzött;racz_furdo
+Elmegyógyintézet;Makó;46.207725729643094;20.470842726860248;egyéb infrastruktúra;elkerített;mako_pszichiatria
+Ságvári Endre turistaház;Szentendre;47.68955594576471;18.985140569834222;szálló;elkerített;turistahaz_szentendre
+Mezőfalvi laktanya, katonai állomás;Mezőfalva;46.9688309710458;18.78418111062886;katonai objektum;őrzött;mezofalva_laktanya
+Rendőrtiszti főiskola;Budapest;47.490435196914845;18.98285546562459;egyéb infrastruktúra;őrzött;rendortiszti_foiskola
+Ranolder-kastély;Csopak;46.9842160364541;17.92549221881894;kastély;elkerített;ranolder_kastely
+Gyermekváros;Komárom;47.73831829144038;18.137200760969712;egyéb infrastruktúra;őrzött;gyermekvaros
+Kégl-kastély;Székesfehérvár;47.229871422755984;18.49526488961747;kastély;szabadon látogatható;kegl_kastely
+Elhagyatott munkásszálló;Nagymaros;47.80010111806399;18.958630091257486;szálló;szabadon látogatható;nagymaros_szallo
