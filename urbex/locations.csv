@@ -1,4 +1,4 @@
-﻿Név;Település;Szélesség;Hosszúság;Jelleg;Látogathatóság;Kép
+﻿Név;Település;Szélesség;Hosszúság;Jelleg;Látogathatóság;Mappa
 Szily-kastély;Gödre;46.271196841443725;17.987791968160227;kastély;szabadon látogatható;szily_kastely
 Fekete-kastély;Balatonederics;46.78872406013771;17.377477709264532;kastély;szabadon látogatható;fekete_kastely
 Zichy-kastély;Kishárságy;46.186883011088405;17.77794226768576;kastély;szabadon látogatható;zichy_kastely
@@ -41,7 +41,7 @@ Zichy-Hadik kastély;Seregélyes;47.118279851913364;18.576434663832494;kastély;
 Laktanya;Börgönd;47.13805381500564;18.494393062069367;laktanya;szabadon látogatható;borgond_laktanya
 Ihász Dániel Közlekedésgépészeti Szakközépiskola;Budapest;47.46507312353433;19.10310891312585;egyéb infrastruktúra;őrzött;szakkozepiskola_bp
 Rácz-fürdő;Budapest;47.4907100433844;19.043307233412445;egyéb infrastruktúra;őrzött;racz_furdo
-Elmegyógyintézet;Makó;46.207725729643094;20.470842726860248;egyéb infrastruktúra;elkerített;mako_pszichiatria
+Pszichiátria;Makó;46.207725729643094;20.470842726860248;egyéb infrastruktúra;elkerített;mako_pszichiatria
 Ságvári Endre turistaház;Szentendre;47.68955594576471;18.985140569834222;szálló;elkerített;turistahaz_szentendre
 Mezőfalvi laktanya, katonai állomás;Mezőfalva;46.9688309710458;18.78418111062886;katonai objektum;őrzött;mezofalva_laktanya
 Rendőrtiszti főiskola;Budapest;47.490435196914845;18.98285546562459;egyéb infrastruktúra;őrzött;rendortiszti_foiskola
