@@ -97,7 +97,7 @@ cmap = matplotlib.cm.get_cmap('nipy_spectral')
 
 #koordináták, azok magasságának beolvasása a csv fájlból.
 coords = []
-f = open('elevation.csv', newline='')
+f = open('datasets/elevation.csv', newline='')
 reader = csv.reader(f, delimiter=',')
 
 #header sor kihagyása
