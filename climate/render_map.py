@@ -19,7 +19,7 @@ bpy.ops.object.delete(use_global=False)
 ############################################################################################
 #JELENET PARAMÉTEREINEK BEÁLLÍTÁSA
 #Emission color
-bpy.data.worlds["World"].node_tree.nodes["Principled BSDF"].inputs[19].default_value = (1, 1, 1, 1)
+bpy.data.worlds["World"].node_tree.nodes["Principled BSDF"].inputs[19].default_value = (0.8, 0.8, 0.8, 1)
 
 #Emission strength
 bpy.data.worlds["World"].node_tree.nodes["Principled BSDF"].inputs[20].default_value = 0.07
@@ -31,7 +31,7 @@ bpy.context.scene.world.color = (0.85, 0.85, 0.85)
 #OBJEKTUMOK LÉTREHOZÁSA
 #SZÖVEG OBJEKTUM
 #Dátum kiszámítása
-day_selected = 3835
+day_selected = 3669
 start_date = date(2011, 1, 1)
 end_date = start_date + timedelta(days=day_selected)
 year, month, day = end_date.strftime("%Y"), end_date.strftime("%m"), end_date.strftime("%d")
@@ -126,7 +126,7 @@ for coord in coords:
     
     #Az oszlop létrehozása, lekerekített élek (bevel) hozzárendelése
     bpy.ops.mesh.primitive_cube_add(size=2, enter_editmode=False, align='WORLD',
-    location=(coord[0], coord[1], coord[2]/2500), scale=(0.04, 0.04, coord[2]/2500))
+    location=(coord[0], coord[1], coord[2]/2500), scale=(0.047, 0.047, coord[2]/2500))
     bpy.context.object.data.materials.append(material)
     bevel = bpy.context.object.modifiers.new('Bevel', 'BEVEL')
     bevel.width = 0.005
