@@ -15,7 +15,7 @@ The required administrative borders are requested from OpenStreetMap using Overp
 By default the notebook generates maps from only one census, and displays the distribution of the different nationalities.
 
 The shape of each town's area gets converted to a polygon. Within this polygon a dot is generated for every N person for each nationality.
-The value of N is set via the `representation` variable. Each nationality is distinctly marked with separate colors.
+The value of N is set via the `representation` variable. Each nationality is distinctly marked with separate colors, they are stored on separate layers, only one may be visible at a time. You can toggle the layers at the bottom left corner of the rendered map.
 
 ## Good to know
 Tens of thousands of dots are generated on each layer, hence both the runtime (~15 mins), both the output size (3-500MB) is large.
