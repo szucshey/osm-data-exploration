@@ -3,7 +3,7 @@
 ## My BSc thesis at the University of Győr
 
 The main goal of the thesis is to discover and demonstrate the capabilities of different mapping libraries, using OpenStreetMap as a base service.
-I've selected 5 different topics that I wanted to visualize on maps. The data sources for each topic were looked up from free sources on the internet, and were either downloaded by the provided ways, scraped (if there was no other way), or collected manually.
+I've selected 5 different topics that I wanted to visualize on maps. The data sources for each topic were looked up from free sources on the internet, and were either downloaded by the provided ways, scraped, or collected manually.
 
 The notebooks may take too long to render on GitHub, it's easier to see them in action through NBViewer, or see their output in some other rendered format:
 1. [Visualizing COVID-19 data in Hungary from March 2020 - April 2022](https://nbviewer.org/github/szucshey/osm-data-exploration/blob/main/covid/covid-data-visualization.ipynb?flush_cache=true) [NBViewer]
