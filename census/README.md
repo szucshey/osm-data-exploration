@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/szucshey/osm-data-exploration/blob/main/census/census_data_in_hungary.ipynb)
+
 # Visualizing data from past censuses in Hungary
 
 ## Data source
